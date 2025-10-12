@@ -1,1 +1,1 @@
-# fibonacci_calculation
+# Simple calculation Fibonacci digits program on C++
