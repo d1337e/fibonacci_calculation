@@ -10,7 +10,7 @@ const unsigned long long MAX_ULL = numeric_limits<unsigned long long>::max();
 /**
  * @brief перечисление методов вычисления для чисел Фибоначчи
  * @param ITERARION итерационный метод
- * @param BINE метод Бинели
+ * @param BINE метод Бине
  */
 enum {
     ITERATION = 1,
